@@ -1,0 +1,12 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.lgd.lgdmyutilsx"
+
+    >
+
+    <application>
+        <activity
+            android:name=".Permissionlib.PermissionRequestActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/translucent" />
+    </application>
+</manifest>
