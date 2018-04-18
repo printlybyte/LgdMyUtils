@@ -10,7 +10,7 @@ import com.lgd.lgdmyutilsx.Permissionlib.interf.ISetting;
 
 /**
  * Created by mq on 2018/3/8 下午3:50
- * mqcoder90@gmail.com
+ * lgdm
  */
 
 public class Default implements ISetting {

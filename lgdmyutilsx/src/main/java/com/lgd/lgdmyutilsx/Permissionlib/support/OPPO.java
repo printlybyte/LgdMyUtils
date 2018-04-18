@@ -10,7 +10,7 @@ import com.lgd.lgdmyutilsx.Permissionlib.interf.ISetting;
 
 /**
  * Created by mq on 2018/3/6 上午11:44
- * mqcoder90@gmail.com
+ * lgdm
  */
 
 public class OPPO implements ISetting {

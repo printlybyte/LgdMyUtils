@@ -4,8 +4,8 @@ publish {
     userOrg = 'liuguodong'//bintray.com用户名
     groupId = 'com.liuguodong'//jcenter上的路径
     artifactId = 'lgdutils'//项目名称
-    publishVersion = '1.0.3'//版本号
-    desc = '增加圆形imageview'//描述，不重要
+    publishVersion = '1.0.5'//版本号
+    desc = 'View helper classes'//描述，不重要
     website = 'https://github.com/printlybyte'//网站，最好有，不重要
 }
 android {

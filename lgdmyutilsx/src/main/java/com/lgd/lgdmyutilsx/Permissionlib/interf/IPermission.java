@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  * Created by mq on 2018/3/6 下午2:52
- * mqcoder90@gmail.com
+ * lgdm
  */
 
 public interface IPermission {

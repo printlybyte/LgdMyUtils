@@ -11,7 +11,7 @@ import com.lgd.lgdmyutilsx.Permissionlib.support.ViVo;
 
 /**
  * Created by mq on 2018/3/8 下午2:49
- * mqcoder90@gmail.com
+ * lgdm
  */
 
 public class SettingUtil {

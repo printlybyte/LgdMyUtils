@@ -23,7 +23,7 @@ import java.util.List;
 
 /**
  * Created by mq on 2018/3/6 上午11:33
- * mqcoder90@gmail.com
+ * lgdm
  */
 @Aspect
 public class PermissionAspect {

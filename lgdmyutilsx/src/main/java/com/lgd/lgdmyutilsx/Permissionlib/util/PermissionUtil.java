@@ -9,7 +9,7 @@ import android.support.v4.util.SimpleArrayMap;
 
 /**
  * Created by mq on 2018/3/6 上午11:40
- * mqcoder90@gmail.com
+ * lgdm
  */
 
 public class PermissionUtil {

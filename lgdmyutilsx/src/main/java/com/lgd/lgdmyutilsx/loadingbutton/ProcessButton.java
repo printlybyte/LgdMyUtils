@@ -229,10 +229,7 @@ public abstract class ProcessButton extends FlatButton {
         }
     }
 
-    /**
-     * A {@link android.os.Parcelable} representing the {@link com.dd.processbutton.ProcessButton}'s
-     * state.
-     */
+
     public static class SavedState extends View.BaseSavedState {
 
         private int mProgress;

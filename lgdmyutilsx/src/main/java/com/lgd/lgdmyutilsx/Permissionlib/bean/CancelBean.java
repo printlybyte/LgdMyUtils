@@ -2,7 +2,7 @@ package com.lgd.lgdmyutilsx.Permissionlib.bean;
 
 /**
  * Created by mq on 2018/3/28 下午8:36
- * mqcoder90@gmail.com
+ * lgdm
  */
 
 public class CancelBean {

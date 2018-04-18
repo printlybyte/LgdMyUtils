@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  * Created by mq on 2018/3/28 下午5:19
- * mqcoder90@gmail.com
+ * lgdm
  */
 
 public class DenyBean {
